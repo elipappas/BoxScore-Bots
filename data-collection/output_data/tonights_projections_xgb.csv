@@ -1,4 +1,5 @@
 Name,Team,Opp,Game_Date,Game_Time,Proj_PTS,Proj_REB,Proj_AST,Total_PRA
+<<<<<<< HEAD
 Joel Embiid,76ers,Grizzlies,2026-03-10,19:00,27.64,7.7,4.2,39.54
 Tyrese Maxey,76ers,Grizzlies,2026-03-10,19:00,27.96,3.61,6.74,38.31
 GG Jackson,Grizzlies,76ers,2026-03-10,19:00,17.59,6.2,2.18,25.97
@@ -310,3 +311,156 @@ Enrique Freeman,Timberwolves,Lakers,2026-03-10,23:00,2.61,1.42,0.68,4.72
 Bronny James,Lakers,Timberwolves,2026-03-10,23:00,2.93,0.91,0.58,4.43
 Jaylen Clark,Timberwolves,Lakers,2026-03-10,23:00,4.06,0.09,0.26,4.41
 Joan Beringer,Timberwolves,Lakers,2026-03-10,23:00,0.24,1.04,0.0,1.29
+=======
+Joel Embiid,76ers,Cavaliers,2026-03-09,19:00,27.64,7.7,4.2,39.54
+Tyrese Maxey,76ers,Cavaliers,2026-03-09,19:00,27.96,3.61,6.74,38.31
+Donovan Mitchell,Cavaliers,76ers,2026-03-09,19:00,27.27,4.36,5.85,37.47
+James Harden,Cavaliers,76ers,2026-03-09,19:00,18.78,5.16,7.67,31.61
+Jarrett Allen,Cavaliers,76ers,2026-03-09,19:00,16.35,9.48,1.16,26.99
+Evan Mobley,Cavaliers,76ers,2026-03-09,19:00,15.71,7.37,1.84,24.92
+Kelly Oubre Jr.,76ers,Cavaliers,2026-03-09,19:00,15.57,5.09,2.76,23.43
+VJ Edgecombe,76ers,Cavaliers,2026-03-09,19:00,15.08,5.76,2.29,23.14
+Quentin Grimes,76ers,Cavaliers,2026-03-09,19:00,13.16,3.62,2.59,19.36
+Jaylon Tyson,Cavaliers,76ers,2026-03-09,19:00,10.91,4.37,1.79,17.06
+Sam Merrill,Cavaliers,76ers,2026-03-09,19:00,11.74,2.97,2.11,16.81
+Dennis Schroder,Cavaliers,76ers,2026-03-09,19:00,9.79,2.62,3.7,16.11
+Adem Bona,76ers,Cavaliers,2026-03-09,19:00,7.4,5.4,1.47,14.27
+Paul George,76ers,Cavaliers,2026-03-09,19:00,7.83,3.47,2.03,13.33
+Trendon Watford,76ers,Cavaliers,2026-03-09,19:00,7.86,3.02,2.3,13.18
+Jabari Walker,76ers,Cavaliers,2026-03-09,19:00,7.83,4.37,0.87,13.06
+Dean Wade,Cavaliers,76ers,2026-03-09,19:00,6.79,4.19,1.53,12.51
+Andre Drummond,76ers,Cavaliers,2026-03-09,19:00,5.02,5.74,1.14,11.9
+Dominick Barlow,76ers,Cavaliers,2026-03-09,19:00,7.32,3.11,1.27,11.7
+Keon Ellis,Cavaliers,76ers,2026-03-09,19:00,6.29,2.96,1.65,10.9
+Kyle Lowry,76ers,Cavaliers,2026-03-09,19:00,6.3,2.55,1.51,10.36
+Thomas Bryant,Cavaliers,76ers,2026-03-09,19:00,6.53,3.08,0.66,10.27
+Larry Nance Jr.,Cavaliers,76ers,2026-03-09,19:00,6.86,1.54,1.74,10.14
+Tyrese Proctor,Cavaliers,76ers,2026-03-09,19:00,6.86,2.14,1.14,10.13
+MarJon Beauchamp,76ers,Cavaliers,2026-03-09,19:00,6.5,2.17,0.88,9.55
+Cameron Payne,76ers,Cavaliers,2026-03-09,19:00,5.53,1.44,2.44,9.41
+Dalen Terry,76ers,Cavaliers,2026-03-09,19:00,4.85,2.57,1.53,8.96
+Tyrese Martin,76ers,Cavaliers,2026-03-09,19:00,5.81,1.82,1.19,8.82
+Craig Porter Jr.,Cavaliers,76ers,2026-03-09,19:00,4.15,2.0,2.59,8.75
+Nae'Qwan Tomlin,Cavaliers,76ers,2026-03-09,19:00,4.13,2.25,0.98,7.37
+Justin Edwards,76ers,Cavaliers,2026-03-09,19:00,4.52,1.83,1.01,7.36
+Tristan Enaruna,Cavaliers,76ers,2026-03-09,19:00,4.12,2.2,0.51,6.82
+Charles Bassey,76ers,Cavaliers,2026-03-09,19:00,3.89,1.9,0.34,6.13
+Nikola Jokic,Nuggets,Thunder,2026-03-09,19:30,30.92,12.08,7.93,50.93
+Shai Gilgeous-Alexander,Thunder,Nuggets,2026-03-09,19:30,27.03,4.63,6.86,38.52
+Michael Porter Jr.,Nets,Grizzlies,2026-03-09,19:30,20.83,7.65,3.05,31.53
+Jamal Murray,Nuggets,Thunder,2026-03-09,19:30,19.81,3.89,5.53,29.23
+Chet Holmgren,Thunder,Nuggets,2026-03-09,19:30,15.2,9.17,2.58,26.94
+GG Jackson,Grizzlies,Nets,2026-03-09,19:30,16.13,6.16,1.9,24.2
+Christian Braun,Nuggets,Thunder,2026-03-09,19:30,12.74,5.72,3.95,22.41
+Isaiah Joe,Thunder,Nuggets,2026-03-09,19:30,14.12,3.87,2.11,20.1
+Jaylin Williams,Thunder,Nuggets,2026-03-09,19:30,9.34,7.4,3.0,19.74
+Ty Jerome,Grizzlies,Nets,2026-03-09,19:30,12.99,2.82,3.85,19.66
+Nic Claxton,Nets,Grizzlies,2026-03-09,19:30,10.52,6.38,2.72,19.63
+Jalen Williams,Thunder,Nuggets,2026-03-09,19:30,13.4,2.22,3.8,19.41
+Cason Wallace,Thunder,Nuggets,2026-03-09,19:30,11.98,3.03,4.26,19.27
+Taylor Hendricks,Grizzlies,Nets,2026-03-09,19:30,12.13,5.28,1.82,19.23
+Noah Clowney,Nets,Grizzlies,2026-03-09,19:30,12.23,4.17,1.79,18.19
+Jaylen Wells,Grizzlies,Nets,2026-03-09,19:30,12.97,2.69,2.02,17.69
+Day'Ron Sharpe,Nets,Grizzlies,2026-03-09,19:30,8.79,5.87,2.53,17.19
+Javon Small,Grizzlies,Nets,2026-03-09,19:30,9.79,3.75,3.47,17.01
+Aaron Wiggins,Thunder,Nuggets,2026-03-09,19:30,10.7,3.67,2.47,16.84
+Danny Wolf,Nets,Grizzlies,2026-03-09,19:30,9.35,4.04,3.35,16.74
+Olivier-Maxence Prosper,Grizzlies,Nets,2026-03-09,19:30,11.18,3.79,1.72,16.7
+Luguentz Dort,Thunder,Nuggets,2026-03-09,19:30,10.51,3.85,2.01,16.36
+Isaiah Hartenstein,Thunder,Nuggets,2026-03-09,19:30,7.12,5.94,3.26,16.32
+Nolan Traore,Nets,Grizzlies,2026-03-09,19:30,11.08,1.61,3.52,16.22
+Cam Spencer,Grizzlies,Nets,2026-03-09,19:30,8.66,2.8,4.51,15.97
+Cameron Johnson,Nuggets,Thunder,2026-03-09,19:30,9.38,3.99,2.55,15.92
+Aaron Gordon,Nuggets,Thunder,2026-03-09,19:30,9.14,4.26,2.4,15.8
+Tim Hardaway Jr.,Nuggets,Thunder,2026-03-09,19:30,11.11,2.97,1.32,15.4
+Egor Demin,Nets,Grizzlies,2026-03-09,19:30,9.18,3.39,2.6,15.18
+Scotty Pippen Jr.,Grizzlies,Nets,2026-03-09,19:30,9.78,2.23,3.07,15.08
+Walter Clayton Jr.,Grizzlies,Nets,2026-03-09,19:30,7.6,1.82,5.3,14.73
+Bruce Brown,Nuggets,Thunder,2026-03-09,19:30,8.45,3.68,2.29,14.42
+Peyton Watson,Nuggets,Thunder,2026-03-09,19:30,10.58,2.5,1.33,14.41
+Terance Mann,Nets,Grizzlies,2026-03-09,19:30,8.5,3.47,2.38,14.36
+Kentavious Caldwell-Pope,Grizzlies,Nets,2026-03-09,19:30,9.66,2.86,1.83,14.35
+Rayan Rupert,Grizzlies,Nets,2026-03-09,19:30,8.8,4.59,0.97,14.35
+Ziaire Williams,Nets,Grizzlies,2026-03-09,19:30,9.37,2.53,2.43,14.33
+Jared McCain,Thunder,Nuggets,2026-03-09,19:30,10.36,2.62,1.09,14.07
+Santi Aldama,Grizzlies,Nets,2026-03-09,19:30,8.41,3.91,1.4,13.72
+Ajay Mitchell,Thunder,Nuggets,2026-03-09,19:30,8.57,2.33,2.22,13.13
+Jahmai Mashack,Grizzlies,Nets,2026-03-09,19:30,9.0,2.48,1.41,12.89
+Julian Strawther,Nuggets,Thunder,2026-03-09,19:30,8.89,2.03,1.46,12.38
+Cedric Coward,Grizzlies,Nets,2026-03-09,19:30,7.14,3.33,1.42,11.88
+Alex Caruso,Thunder,Nuggets,2026-03-09,19:30,6.58,2.45,1.75,10.78
+Jonas Valanciunas,Nuggets,Thunder,2026-03-09,19:30,5.35,4.36,0.74,10.45
+Kenrich Williams,Thunder,Nuggets,2026-03-09,19:30,6.13,3.12,1.05,10.3
+Drake Powell,Nets,Grizzlies,2026-03-09,19:30,6.49,2.23,1.17,9.89
+Brandon Clarke,Grizzlies,Nets,2026-03-09,19:30,4.66,3.02,1.74,9.42
+Josh Minott,Nets,Grizzlies,2026-03-09,19:30,5.45,2.08,1.25,8.79
+Ben Saraf,Nets,Grizzlies,2026-03-09,19:30,4.81,1.25,2.45,8.51
+KJ Simpson,Nuggets,Thunder,2026-03-09,19:30,4.6,1.77,1.94,8.32
+Tyus Jones,Nuggets,Thunder,2026-03-09,19:30,4.02,1.45,2.73,8.2
+Ochai Agbaji,Nets,Grizzlies,2026-03-09,19:30,5.02,2.08,0.92,8.02
+Jalen Wilson,Nets,Grizzlies,2026-03-09,19:30,5.0,1.54,1.43,7.97
+David Roddy,Nuggets,Thunder,2026-03-09,19:30,5.07,0.78,0.85,6.7
+Jalen Pickett,Nuggets,Thunder,2026-03-09,19:30,4.21,1.43,0.89,6.53
+Spencer Jones,Nuggets,Thunder,2026-03-09,19:30,2.97,2.66,0.43,6.07
+Branden Carlson,Thunder,Nuggets,2026-03-09,19:30,3.38,2.11,0.5,6.0
+Zeke Nnaji,Nuggets,Thunder,2026-03-09,19:30,2.46,2.46,0.42,5.34
+Brooks Barnhizer,Thunder,Nuggets,2026-03-09,19:30,1.81,1.74,1.41,4.96
+Brandin Podziemski,Warriors,Jazz,2026-03-09,21:00,19.99,7.58,4.84,32.41
+Lauri Markkanen,Jazz,Warriors,2026-03-09,21:00,21.58,5.4,1.9,28.88
+Jaren Jackson Jr.,Jazz,Warriors,2026-03-09,21:00,20.86,5.42,2.33,28.61
+Isaiah Collier,Jazz,Warriors,2026-03-09,21:00,17.88,2.52,5.95,26.35
+Gui Santos,Warriors,Jazz,2026-03-09,21:00,15.59,6.81,3.75,26.16
+Ace Bailey,Jazz,Warriors,2026-03-09,21:00,17.93,5.13,2.37,25.43
+Kyle Filipowski,Jazz,Warriors,2026-03-09,21:00,12.21,8.87,3.23,24.32
+Keyonte George,Jazz,Warriors,2026-03-09,21:00,16.55,3.32,3.19,23.06
+Brice Sensabaugh,Jazz,Warriors,2026-03-09,21:00,16.33,3.16,2.07,21.56
+Al Horford,Warriors,Jazz,2026-03-09,21:00,11.8,5.55,3.29,20.65
+De'Anthony Melton,Warriors,Jazz,2026-03-09,21:00,13.75,3.39,2.34,19.48
+Draymond Green,Warriors,Jazz,2026-03-09,21:00,10.21,4.7,4.54,19.45
+Jusuf Nurkic,Jazz,Warriors,2026-03-09,21:00,7.99,6.47,2.79,17.26
+Moses Moody,Warriors,Jazz,2026-03-09,21:00,12.17,2.85,1.79,16.82
+Cody Williams,Jazz,Warriors,2026-03-09,21:00,9.82,4.3,2.35,16.47
+Pat Spencer,Warriors,Jazz,2026-03-09,21:00,9.01,2.35,4.41,15.77
+Gary Payton II,Warriors,Jazz,2026-03-09,21:00,10.24,3.47,1.95,15.65
+Quinten Post,Warriors,Jazz,2026-03-09,21:00,7.15,5.02,1.67,13.85
+Vince Williams Jr.,Jazz,Warriors,2026-03-09,21:00,6.33,3.18,2.83,12.35
+Will Richard,Warriors,Jazz,2026-03-09,21:00,7.82,2.51,0.61,10.95
+Blake Hinson,Jazz,Warriors,2026-03-09,21:00,7.43,2.4,1.03,10.86
+John Konchar,Jazz,Warriors,2026-03-09,21:00,4.96,3.76,1.85,10.57
+Kristaps Porzingis,Warriors,Jazz,2026-03-09,21:00,7.81,1.68,0.77,10.27
+Svi Mykhailiuk,Jazz,Warriors,2026-03-09,21:00,7.05,1.27,1.59,9.9
+Kevin Love,Jazz,Warriors,2026-03-09,21:00,4.4,4.08,1.22,9.7
+Mo Bamba,Jazz,Warriors,2026-03-09,21:00,5.05,3.79,0.51,9.34
+Elijah Harkless,Jazz,Warriors,2026-03-09,21:00,5.29,1.81,1.84,8.94
+Malevy Leons,Warriors,Jazz,2026-03-09,21:00,6.73,1.12,0.25,8.09
+Nate Williams,Warriors,Jazz,2026-03-09,21:00,6.13,1.59,0.37,8.08
+Oscar Tshiebwe,Jazz,Warriors,2026-03-09,21:00,2.57,4.24,1.21,8.02
+Seth Curry,Warriors,Jazz,2026-03-09,21:00,2.16,2.18,0.46,4.79
+Kawhi Leonard,Clippers,Knicks,2026-03-09,22:00,26.14,6.43,4.03,36.6
+Jalen Brunson,Knicks,Clippers,2026-03-09,22:00,24.09,3.98,8.0,36.07
+Karl-Anthony Towns,Knicks,Clippers,2026-03-09,22:00,19.9,12.31,2.19,34.39
+Darius Garland,Clippers,Knicks,2026-03-09,22:00,17.16,2.77,6.2,26.14
+Bennedict Mathurin,Clippers,Knicks,2026-03-09,22:00,17.1,6.02,2.35,25.48
+Josh Hart,Knicks,Clippers,2026-03-09,22:00,11.82,6.58,3.71,22.12
+John Collins,Clippers,Knicks,2026-03-09,22:00,14.0,6.5,1.33,21.84
+OG Anunoby,Knicks,Clippers,2026-03-09,22:00,14.78,4.41,1.92,21.11
+Mikal Bridges,Knicks,Clippers,2026-03-09,22:00,12.52,3.32,3.56,19.4
+Derrick Jones Jr.,Clippers,Knicks,2026-03-09,22:00,13.24,3.66,1.62,18.53
+Brook Lopez,Clippers,Knicks,2026-03-09,22:00,11.73,4.28,1.77,17.78
+Kris Dunn,Clippers,Knicks,2026-03-09,22:00,7.65,4.4,4.11,16.15
+Jordan Miller,Clippers,Knicks,2026-03-09,22:00,9.56,2.7,2.8,15.06
+Landry Shamet,Knicks,Clippers,2026-03-09,22:00,10.45,2.22,1.76,14.43
+Mitchell Robinson,Knicks,Clippers,2026-03-09,22:00,5.9,6.5,0.78,13.18
+Yanic Konan Niederhauser,Clippers,Knicks,2026-03-09,22:00,6.48,4.86,0.71,12.05
+Jose Alvarado,Knicks,Clippers,2026-03-09,22:00,4.89,2.31,3.25,10.45
+Isaiah Jackson,Clippers,Knicks,2026-03-09,22:00,5.17,3.76,1.48,10.41
+Kevin McCullar Jr.,Knicks,Clippers,2026-03-09,22:00,6.73,1.92,1.33,9.98
+Kobe Sanders,Clippers,Knicks,2026-03-09,22:00,6.17,2.05,0.56,8.79
+Mohamed Diawara,Knicks,Clippers,2026-03-09,22:00,5.73,2.01,0.98,8.71
+Bogdan Bogdanovic,Clippers,Knicks,2026-03-09,22:00,2.85,2.63,1.21,6.68
+Jeremy Sochan,Knicks,Clippers,2026-03-09,22:00,2.79,2.39,1.27,6.45
+Jordan Clarkson,Knicks,Clippers,2026-03-09,22:00,4.34,1.45,0.55,6.34
+Nicolas Batum,Clippers,Knicks,2026-03-09,22:00,2.58,1.8,1.27,5.66
+Ariel Hukporti,Knicks,Clippers,2026-03-09,22:00,2.55,2.43,0.5,5.48
+Pacome Dadiet,Knicks,Clippers,2026-03-09,22:00,1.15,2.16,1.41,4.72
+>>>>>>> a62742b2983d2be9dd02fc9ab56444a141b6fdb0

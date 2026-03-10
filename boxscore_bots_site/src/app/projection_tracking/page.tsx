@@ -59,7 +59,7 @@ export default function StatsPage() {
   const avg = (key: keyof DailyDist) =>
     dailyDist.length > 0
       ? (
-          dailyDist.reduce((sum, d) => sum + (d[key] || 0), 0) /
+          dailyDist.reduce((sum, d) => sum + Number(d[key] || 0), 0) /
           dailyDist.filter((d) => d[key] != null).length
         ).toFixed(2)
       : 'N/A';
@@ -117,7 +117,7 @@ export default function StatsPage() {
                   />
                   <YAxis />
                   <Tooltip 
-                    formatter={(value: number) => Number(value).toFixed(2)}_
+                    formatter={(value: any) =>  value != null ? Number(value).toFixed(2) : 'N/A'} //FORMATTER SET TO ANY BC COMPILER DOESN'T LIKE POSSIBILITY OF UNDEFINED VARS
                     labelFormatter={(value: any) => new Date(value).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
                   />
                   <Legend />
