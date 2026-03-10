@@ -1,109 +1,84 @@
 event_id,game,commence_time,bookmaker,player,stat,line,over_odds,under_odds
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Shai Gilgeous-Alexander,points,31.5,-107,-119
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jalen Brunson,points,24.5,-108,-118
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Karl-Anthony Towns,points,17.5,-102,-125
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Chet Holmgren,points,16.5,-116,-110
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,OG Anunoby,points,14.5,-121,-105
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Mikal Bridges,points,13.5,-112,-114
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Josh Hart,points,11.5,100,-127
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Isaiah Joe,points,9.5,-121,-106
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jared McCain,points,9.5,-119,-107
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Cason Wallace,points,9.5,-103,-123
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Isaiah Hartenstein,points,9.5,-103,-124
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Landry Shamet,points,8.5,-122,-105
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Luguentz Dort,points,8.5,-115,-111
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jose Alvarado,points,6.5,-103,-124
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Alex Caruso,points,6.5,100,-128
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Jaylen Brown,points,27.5,-118,-108
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Brandon Miller,points,20.5,-105,-121
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Kon Knueppel,points,17.5,-114,-111
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,LaMelo Ball,points,17.5,-107,-119
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Payton Pritchard,points,17.5,-104,-122
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Derrick White,points,16.5,-118,-108
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Miles Bridges,points,13.5,-105,-122
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Coby White,points,12.5,-108,-118
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Nikola Vucevic,points,10.5,-126,-101
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Sam Hauser,points,9.5,-119,-107
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Neemias Queta,points,9.5,-117,-109
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Baylor Scheierman,points,7.5,-125,-102
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Moussa Diabate,points,7.5,-125,-102
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Tyrese Maxey,points,33.5,-115,-110
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Keyonte George,points,21.5,-103,-124
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Kelly Oubre Jr,points,17.5,-108,-118
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Quentin Grimes,points,16.5,-107,-119
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Ace Bailey,points,16.5,-104,-123
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Brice Sensabaugh,points,15.5,-111,-115
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Kyle Filipowski,points,13.5,-109,-117
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Isaiah Collier,points,13.5,-105,-122
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Dominick Barlow,points,9.5,-128,101
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Andre Drummond,points,8.5,-121,-106
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Adem Bona,points,5.5,-132,104
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Deni Avdija,points,19.5,-123,-104
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jerami Grant,points,18.5,-125,-102
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jrue Holiday,points,17.5,-108,-118
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,G.G. Jackson,points,13.5,-118,-108
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Donovan Clingan,points,13.5,-115,-111
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Toumani Camara,points,12.5,-121,-105
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jaylen Wells,points,12.5,-107,-119
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Santi Aldama,points,11.5,-110,-116
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Giannis Antetokounmpo,points,24.5,-123,-103
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Jalen Johnson,points,21.5,-109,-117
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Nickeil Alexander-Walker,points,17.5,-106,-120
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,C.J. McCollum,points,16.5,-127,-101
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Kevin Porter Jr.,points,14.5,-128,100
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Onyeka Okongwu,points,14.5,-107,-119
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Jonathan Kuminga,points,13.5,-123,-104
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Ryan Rollins,points,12.5,-119,-107
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Bobby Portis,points,11.5,-105,-121
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Dyson Daniels,points,9.5,-129,102
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Myles Turner,points,9.5,-123,-103
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,A.J. Green,points,9.5,-109,-116
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Ousmane Dieng,points,8.5,-104,-123
-e94b132f71de8a19ec817d79677921d9,Milwaukee Bucks vs Atlanta Hawks,2026-03-05T02:40:00Z,DraftKings,Jock Landale,points,7.5,-114,-112
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Shai Gilgeous-Alexander,points,31.5,-107,-119
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jalen Brunson,points,24.5,-108,-118
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Karl-Anthony Towns,points,17.5,-102,-125
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Chet Holmgren,points,16.5,-116,-110
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,OG Anunoby,points,14.5,-121,-105
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Mikal Bridges,points,13.5,-112,-114
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Josh Hart,points,11.5,100,-127
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Isaiah Joe,points,9.5,-121,-106
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jared McCain,points,9.5,-119,-107
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Cason Wallace,points,9.5,-103,-123
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Isaiah Hartenstein,points,9.5,-103,-124
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Landry Shamet,points,8.5,-122,-105
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Luguentz Dort,points,8.5,-115,-111
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Jose Alvarado,points,6.5,-103,-124
-5e27bbc527b9df8725ac9fcf03174b8c,New York Knicks vs Oklahoma City Thunder,2026-03-05T00:10:00Z,DraftKings,Alex Caruso,points,6.5,100,-128
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Jaylen Brown,points,27.5,-118,-108
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Brandon Miller,points,20.5,-105,-121
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Kon Knueppel,points,17.5,-114,-111
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,LaMelo Ball,points,17.5,-107,-119
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Payton Pritchard,points,17.5,-104,-122
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Derrick White,points,16.5,-118,-108
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Miles Bridges,points,13.5,-105,-122
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Coby White,points,12.5,-108,-118
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Nikola Vucevic,points,10.5,-126,-101
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Sam Hauser,points,9.5,-119,-107
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Neemias Queta,points,9.5,-117,-109
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Baylor Scheierman,points,7.5,-125,-102
-205af1eb3893119c935c720bddf95254,Boston Celtics vs Charlotte Hornets,2026-03-05T00:40:00Z,DraftKings,Moussa Diabate,points,7.5,-125,-102
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Tyrese Maxey,points,33.5,-115,-110
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Keyonte George,points,21.5,-103,-124
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Kelly Oubre Jr,points,17.5,-108,-118
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Quentin Grimes,points,16.5,-107,-119
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Ace Bailey,points,16.5,-104,-123
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Brice Sensabaugh,points,15.5,-111,-115
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Kyle Filipowski,points,13.5,-109,-117
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Isaiah Collier,points,13.5,-105,-122
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Dominick Barlow,points,9.5,-128,101
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Andre Drummond,points,8.5,-121,-106
-417802e27d447db450466ad4fd7a4f8d,Philadelphia 76ers vs Utah Jazz,2026-03-05T00:40:00Z,DraftKings,Adem Bona,points,5.5,-132,104
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Deni Avdija,points,19.5,-123,-104
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jerami Grant,points,18.5,-125,-102
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jrue Holiday,points,17.5,-108,-118
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,G.G. Jackson,points,13.5,-118,-108
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Donovan Clingan,points,13.5,-115,-111
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Toumani Camara,points,12.5,-121,-105
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Jaylen Wells,points,12.5,-107,-119
-2a2434eaef59c9cbb34c5410c32f2529,Memphis Grizzlies vs Portland Trail Blazers,2026-03-05T01:10:00Z,DraftKings,Santi Aldama,points,11.5,-110,-116
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Quentin Grimes,points,18.5,-110,-116
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,VJ Edgecombe,points,18.5,-107,-119
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Kelly Oubre Jr,points,17.5,-105,-121
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Ty Jerome,points,16.5,-124,-103
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,G.G. Jackson,points,14.5,-124,-103
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Jaylen Wells,points,13.5,-125,-102
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Scotty Pippen Jr,points,11.5,-114,-111
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Olivier-Maxence Prosper,points,10.5,-125,-102
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Dominick Barlow,points,9.5,-108,-118
+e735f6e9e8e98e8b92c380f09760ec3f,Philadelphia 76ers vs Memphis Grizzlies,2026-03-10T23:10:00Z,DraftKings,Adem Bona,points,8.5,-131,102
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Jalen Johnson,points,23.5,-108,-118
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Cooper Flagg,points,20.5,-114,-112
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Nickeil Alexander-Walker,points,18.5,-112,-114
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,C.J. McCollum,points,17.5,-118,-108
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Onyeka Okongwu,points,15.5,-105,-121
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Jonathan Kuminga,points,13.5,-117,-109
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Naji Marshall,points,13.5,-102,-125
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,P.J. Washington,points,12.5,-125,-102
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Brandon Williams,points,12.5,-103,-124
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Max Christie,points,11.5,-119,-107
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Dyson Daniels,points,11.5,-114,-112
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Klay Thompson,points,10.5,-115,-110
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Khris Middleton,points,10.5,-111,-115
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Jock Landale,points,8.5,-121,-105
+abc7626b6e289bd9003f66cd3df84349,Atlanta Hawks vs Dallas Mavericks,2026-03-10T23:40:00Z,DraftKings,Daniel Gafford,points,8.5,-116,-110
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Cade Cunningham,points,26.5,-104,-123
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Michael Porter Jr,points,21.5,-122,-104
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Jalen Duren,points,17.5,-110,-116
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Tobias Harris,points,12.5,-127,100
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Noah Clowney,points,12.5,-102,-125
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Duncan Robinson,points,10.5,-127,-101
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Nicolas Claxton,points,9.5,-128,100
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Isaiah Stewart II,points,8.5,-113,-113
+9421796c001c679383541d472b15be1f,Brooklyn Nets vs Detroit Pistons,2026-03-10T23:40:00Z,DraftKings,Drake Powell,points,7.5,-102,-126
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Giannis Antetokounmpo,points,25.5,-119,-107
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Devin Booker,points,25.5,-104,-123
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Jalen Green,points,19.5,-116,-110
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Grayson Allen,points,16.5,-121,-105
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Ryan Rollins,points,15.5,-110,-116
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Collin Gillespie,points,13.5,-124,-103
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Bobby Portis,points,11.5,-115,-111
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Kyle Kuzma,points,11.5,-112,-114
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Ousmane Dieng,points,9.5,101,-129
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Royce O'Neale,points,9.5,101,-128
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Myles Turner,points,8.5,-107,-119
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,A.J. Green,points,7.5,-105,-121
+133cc0d0b8283948b909c38cc93d2d62,Milwaukee Bucks vs Phoenix Suns,2026-03-11T00:10:00Z,DraftKings,Oso Ighodaro,points,6.5,-114,-111
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Brandon Miller,points,21.5,-103,-124
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Deni Avdija,points,20.5,-119,-107
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Kon Knueppel,points,19.5,-123,-104
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,LaMelo Ball,points,19.5,-109,-116
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Jerami Grant,points,17.5,-110,-116
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Jrue Holiday,points,17.5,-102,-124
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Miles Bridges,points,15.5,-103,-124
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Toumani Camara,points,11.5,-124,-102
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Scoot Henderson,points,11.5,-107,-119
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Donovan Clingan,points,10.5,-128,101
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Moussa Diabate,points,8.5,-127,100
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Vit Krejci,points,6.5,-120,-106
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Grant Williams,points,6.5,-115,-111
+25729251b2eb774717c748181096b0be,Portland Trail Blazers vs Charlotte Hornets,2026-03-11T02:10:00Z,DraftKings,Ryan Kalkbrenner,points,5.5,-105,-121
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Matas Buzelis,points,17.5,-116,-110
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Brandin Podziemski,points,17.5,-113,-113
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Josh Giddey,points,17.5,-105,-121
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Collin Sexton,points,16.5,-121,-105
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,De'Anthony Melton,points,16.5,-121,-105
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Gui Santos,points,15.5,-121,-105
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Tre Jones,points,13.5,-101,-126
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Kristaps Porzingis,points,12.5,-110,-116
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Al Horford,points,10.5,-110,-116
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Isaac Okoro,points,9.5,-115,-111
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Jalen Smith,points,9.5,-115,-111
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Draymond Green,points,9.5,-105,-121
+c248f3294c1e35f27919ab0f49322752,Golden State Warriors vs Chicago Bulls,2026-03-11T02:10:00Z,DraftKings,Guerschon Yabusele,points,8.5,-124,-102
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Jarace Walker,points,17.5,-118,-108
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Russell Westbrook,points,16.5,-123,-104
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,DeMar DeRozan,points,15.5,-124,-103
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Malik Monk,points,15.5,-123,-103
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Maxime Raynaud,points,15.5,-118,-108
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Precious Achiuwa,points,14.5,-113,-113
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Jay Huff,points,13.5,-105,-121
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Aaron Nesmith,points,11.5,-123,-104
+eacde0007a133dae3e1eee3630c04a60,Sacramento Kings vs Indiana Pacers,2026-03-11T02:10:00Z,DraftKings,Nique Clifford,points,11.5,-118,-108

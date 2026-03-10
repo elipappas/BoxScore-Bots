@@ -12,6 +12,7 @@ DEL "./data-collection/sportsbook_data/playerprops.csv"
 python "./data-collection/over_under.py" || goto error
 python "./data-collection/projection_tracking_csv.py" || goto error
 python "./data-collection/projection_vs_sportsbooks.py" || goto error
+python "over_under_tracking.py" || goto error
 python "./data-collection/database/bulk_upload.py" || goto error
 
 echo All scripts finished successfully.
