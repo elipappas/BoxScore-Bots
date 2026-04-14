@@ -198,3 +198,14 @@ Our aim is for the site to be extremely easy to use and very intuitive so that a
 - Regression models  
 - Tree-based methods  
 - Neural networks
+- XGBoost
+
+## Expenses
+We spent about $20 on purchasing the poster board for the CEAS Expo, which we split the costs for. Besides that we didn't have any other expenses on the project.
+
+## Final Result of Hours Spent
+Eli Pappas: 120 hours
+I spent over 40 hours researching and finding valuable data sets, which included time sunk in working on a web scraper to get data that never ended up working as well as integrating other resources that didn't pan out before finding our Kaggle dataset. I also spend a decent amount of time, around 20 to integrate and clean the good dataset and sift through features needed to train the models. So overall I spend around 60 hours working on our data pipeline. I spent 20 hours or so to create and train the models we used whichc includes finding new models, building out the models, and tweaking how features were used. I spent another 5-10 on setting up the database to be useable for the output data and the website. Another 10 hours was spent doing tracking to see how the model performed and store the results. Finally, I spent another 20 hours doing various tweaks, around the website, behind the scenes database work, local notebooks to see how our over/underperformed, and more time spent finding valid APIs for sportsbook tracking and integrating that in with our projections.
+
+Nikhil Gupta: 110 hours
+I spent about 15 hours researching effective ML models to make the predictions and gathering information on them. I spent about 40 hours helping Eli on model implementation and training, as well as analysis of model performance. Therefore, approximately 55 hours of my time was spent contributing towards the machine learning tasks for the project. I spent 10 hours designing mockups for the front-end web pages, then 20 hours developing the pages itself and connecting backend to front end, totalling up to 30 hours of work for front end/UI development. I spent 5 hours towards integration of the entire website into the hosting via Vercel which involved some heavy debugging. Finally, I did about 20 hours of work on the non-technical aspects of the project like poster design, printing and board preparation.
